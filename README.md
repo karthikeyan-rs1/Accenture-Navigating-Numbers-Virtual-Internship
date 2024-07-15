@@ -13,7 +13,7 @@ Accenture is a leading global professional services company that helps the world
 All files related to this internship can be accessible [here](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship)
 
 ### Certificate:
-![Certificate of Completion]
+![Certificate of Completion](https://drive.google.com/file/d/18L1j8e4iRr9pm_LaPIdKlxPRi85hzWFq/view)
 
 ### Scenario:
 The client company is Social Buzz. Social Buzz was founded by two former engineers from a large social media conglomerate, one from London and the other from San Francisco. Social Buzz emphasizes content by keeping all users anonymous, only tracking user reactions on every piece of content. There are over 100 ways that users can react to content, spanning beyond the traditional reactions of likes, dislikes, and comments.
