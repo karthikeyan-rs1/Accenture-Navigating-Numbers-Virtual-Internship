@@ -66,7 +66,7 @@ A data analyst sits between the business and the data.
 
   
 ### Accenture Project Team:
-![image](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/f88a4e81-f874-4a08-ac90-6e0b464d3bf6)
+![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/blob/main/Task%201-2.Accenture%20Project%20Team.pdf)
 
 #### Key roles and responsibilities of a Data Analyst
 A data analyst sits between the business and the data.
