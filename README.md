@@ -49,7 +49,7 @@ Here is the summary of the contents and columns from the datasets:
 -  **Score:** This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 
 #### Client 'Social Buzz' provided the Data Model:
-![image](Task 2-1. Data model.pdf)
+![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/blob/main/Task%202-1.%20Data%20model.pdf)
 
 ### Task 1: Project Understanding:
 A data analyst sits between the business and the data.
