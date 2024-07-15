@@ -10,7 +10,7 @@ This is a virtual internship program case study with the company, Accenture Nort
 Accenture is a leading global professional services company that helps the world's leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services - creating tangible value at speed and scale.
 
 ### Project File:
-All files related to this internship can be accessible [here]
+All files related to this internship can be accessible [here](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship)
 
 ### Certificate:
 ![Certificate of Completion]
