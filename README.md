@@ -49,7 +49,7 @@ Here is the summary of the contents and columns from the datasets:
 -  **Score:** This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 
 #### Client 'Social Buzz' provided the Data Model:
-![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/blob/main/Task%202-1.%20Data%20model.pdf)
+![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/6628d543-eebd-4264-8549-48992fc00946)
 
 ### Task 1: Project Understanding:
 A data analyst sits between the business and the data.
@@ -66,7 +66,7 @@ A data analyst sits between the business and the data.
 
   
 ### Accenture Project Team:
-![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/blob/main/Task%201-2.Accenture%20Project%20Team.pdf)
+![image](https://github.com/karthikeyan-the-analyst/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/6628d543-eebd-4264-8549-48992fc00946)
 
 #### Key roles and responsibilities of a Data Analyst
 A data analyst sits between the business and the data.
